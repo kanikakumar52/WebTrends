@@ -1,0 +1,187 @@
+body {
+	margin: 0;
+	color: #404040;
+	height: 5250px;
+}
+
+.banner {
+	width: 100%;
+}
+
+.background {
+	width: 100%;
+}
+
+h1 {
+	font-family: Baskerville;
+	color: #404040;
+	font-size: 30px;
+	position: absolute;
+	display: inline-block;
+	padding-left: 100px;
+	padding-top: 100px;
+}
+
+h4 {
+	font-family: Avenir;
+	color: #404040;
+	font-weight: 400;
+	font-size: 16px;
+	width: 300px;
+	padding-right: 20px;
+}
+
+.flexbox {
+	position: absolute;
+	display: inline-block;
+	display: flex;
+	padding-left: 100px;
+	padding-top: 280px;
+}
+
+.images {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	padding: 5px;
+	background-color: white;
+	padding-top: 50px;
+}
+
+.urthy {
+	width: 900px;
+	padding-left: 18%;
+	position: absolute;
+}
+
+.urthybw {
+	width: 900px;
+	padding-left: 18%;
+	position: absolute;
+}
+
+.frame {
+	width: 900px;
+	padding-left: 18%;
+	position: absolute;
+}
+
+.pots {
+	width: 900px;
+	padding-left: 18%;
+	position: absolute;
+
+}
+
+.storage {
+	width: 900px;
+	padding-left: 18%;
+	position: absolute;
+}
+
+.grinder {
+	width: 900px;
+	padding-left: 18%;
+	position: absolute;
+}
+
+.helper {
+	width: 900px;
+	padding-left: 18%;
+	position: absolute;
+}
+
+#introDescription {
+	font-family: Avenir;
+	text-align: center;
+	padding: 5px;
+	background-color: transparent;
+	position: absolute;
+	font-weight: 400;
+	padding-left: 41.25%;
+	font-size: 20px;
+}
+
+#frameDescription {
+	font-family: Avenir;
+	width: 200px;
+	height: 120px;
+	top: 0px;
+	left: 0px;
+	text-align: left;
+	padding: 20px;
+	background-color: #38B449;
+	position: absolute;
+	font-weight: 400;
+	font-size: 16px;
+	color: white;
+}
+
+.component {
+	font-family: Baskerville;
+	font-weight: 700;
+	text-align: left;
+	color: white;
+	font-size: 25px;
+	margin-top: 0;
+}
+
+#potsDescription {
+	font-family: Avenir;
+	width: 200px;
+	height: 120px;
+	top: 160px;
+	left: 0px;
+	text-align: left;
+	padding: 20px;
+	background-color: #38B449;
+	position: absolute;
+	font-weight: 400;
+	font-size: 16px;
+	color: white;
+}
+
+#grinderDescription {
+	font-family: Avenir;
+	width: 200px;
+	height: 120px;
+	top: 320px;
+	left: 0px;
+	text-align: left;
+	padding: 20px;
+	background-color: #38B449;
+	position: absolute;
+	font-weight: 400;
+	font-size: 16px;
+	color: white;
+}
+
+#helperDescription {
+	font-family: Avenir;
+	width: 200px;
+	height: 120px;
+	top: 480px;
+	left: 0px;
+	text-align: left;
+	padding: 20px;
+	background-color: #38B449;
+	position: absolute;
+	font-weight: 400;
+	font-size: 16px;
+	color: white;
+}
+
+#storageDescription {
+	font-family: Avenir;
+	width: 200px;
+	height: 120px;
+	top: 640px;
+	left: 0px;
+	text-align: left;
+	padding: 20px;
+	background-color: #38B449;
+	position: absolute;
+	font-weight: 400;
+	font-size: 16px;
+	color: white;
+}
